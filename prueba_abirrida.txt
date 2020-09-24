@@ -2,3 +2,5 @@ Hola mundo
 
 
 La clase es muy temprano, pero está divertida
+
+estamos aprendiendo a usar git
